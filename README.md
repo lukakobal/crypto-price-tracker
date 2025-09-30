@@ -32,4 +32,4 @@ You can swap the endpoint in script.js for another crypto API if desired.
 Local Setup
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
-# open index.html in your browser
+open index.html in your browser
