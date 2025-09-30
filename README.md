@@ -17,8 +17,7 @@ A simple web app to fetch the current price of cryptocurrencies in USD and EUR u
 
 🖥️ Screenshot
 
-
-(Add a screenshot of your app for better presentation)
+(Add a screenshot of your app here for better presentation)
 
 🛠️ Technologies Used
 
