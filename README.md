@@ -1,34 +1,35 @@
-🚀 Crypto Price Tracker
+💰 Crypto Price Tracker
 
-A simple web app to fetch the current price of cryptocurrencies in USD and EUR using the CoinGecko API
-. 💰 Perfect for quick price checks!
+A small web application that fetches and displays the current price of a cryptocurrency in USD and EUR at the click of a button.
+Users can type any valid cryptocurrency name and instantly see its live price.
 
-🔹 Features
+Features
 
-🔍 Search any cryptocurrency by name (e.g., bitcoin, ethereum)
-💵 Get live prices in USD & EUR
-🎨 Clean, simple interface
-⚠️ Handles invalid input gracefully
+✅ Fetches live cryptocurrency prices from the CoinGecko API
+✅ Displays the cryptocurrency name and prices in USD and EUR
+✅ Handles invalid input gracefully
+✅ Simple, responsive design (HTML, CSS, JavaScript)
 
+Technologies
 
+HTML5 – page structure
+CSS3 – styling
+Vanilla JavaScript (ES6+) – app logic and fetch API calls
 
-🛠️ Technologies Used
-HTML5, CSS3, JavaScript (ES6+), CoinGecko API
+How to Use
 
-🚀 How to Use
+Open the app in a browser (locally or via GitHub Pages)
 
-Clone the repo:
-git clone https://github.com/yourusername/crypto-price-tracker.git
-Open index.html in your browser
-Type cryptocurrency name in input
-Click Get Price
+Type the cryptocurrency name (e.g., bitcoin) in the input field
 
-💡 Example
+Click Get Price to retrieve current USD and EUR prices
 
-Input: bitcoin → Output: USD: $112955, EUR: €95739
+API
 
-⚡ Notes
-🌐 Internet connection required, works only with valid cryptocurrency names recognized by CoinGecko API.
+Uses the CoinGecko API.
+You can swap the endpoint in script.js for another crypto API if desired.
 
-📄 License
-MIT License
+Local Setup
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+# open index.html in your browser
